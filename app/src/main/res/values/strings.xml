@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Shop</string>
+
+    <string name="email"> Email </string>
+    <string name="username"> Username </string>
+    <string name="password"> Password </string>
+    <string name="number"> Phone Number </string>
+    <string name="ok"> OK </string>
+    <string name="sign_up"> Sign up </string>
+    <string name="login"> Login </string>
+    <string name="remember_me"> Remember Me </string>
+    <string name="forget_password"> -Forget password </string>
+    <string name="account"> Don\'t have an account? </string>
+    <string name="already_member"> Already a member? </string>
+
+    <string name="err_name"> PLease enter fullname. </string>
+    <string name="err_email"> PLease enter email. </string>
+    <string name="err_password"> PLease enter password. </string>
+    <string name="err_len_password"> PLease enter password more than 6 numbers. </string>
+    <string name="err_phone"> PLease enter phone number. </string>
+    <string name="success_register"> Successful Register. </string>
+    <string name="success_login"> Successful Login. </string>
+    <string name="title_activity_dashboard">MainActivity</string>
+    <string name="title_products">Products</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_orders">Orders</string>
+
+
+</resources>

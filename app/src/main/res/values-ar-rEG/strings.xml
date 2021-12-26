@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Shop</string>
+
+    <string name="email"> البريد الإلكتروني </string>
+    <string name="username"> اسم المستخدم </string>
+    <string name="password"> كلمة المرور </string>
+    <string name="number"> رقم الهاتف </string>
+    <string name="ok"> موافق </string>
+    <string name="sign_up"> أنشاء حساب </string>
+    <string name="login"> تسجيل الدخول </string>
+    <string name="remember_me"> تذكرني </string>
+    <string name="forget_password"> - نسيت كلمة المرور </string>
+    <string name="account"> أليس لديك حساب؟ </string>
+    <string name="already_member"> عضو بالفعل؟ </string>
+
+    <string name="err_name"> من فضلك ادخل الاسم </string>
+    <string name="err_email"> من فضلك ادخل البريد الالكترونى </string>
+    <string name="err_password"> من فضلك ادخل الرقم السري </string>
+    <string name="err_len_password"> من فضلك ادخل الرقم السري اكثر من 6 ارقام </string>
+    <string name="err_phone"> من فضلك ادخل رقم الهاتف </string>
+    <string name="success_register"> تم انشاء حساب بنجاح </string>
+    <string name="success_login"> تم تسجيل الدخول بنجاح. </string>
+</resources>
